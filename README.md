@@ -13,3 +13,11 @@ This is a simple Golang script that generates a Network Entity Title (NET) in th
 `make test`
 
 `make run`
+
+Usage of ipv4tonet
+
+-area string : area (default "0001")
+
+-area-prefix string : area prefix (default "49")
+
+-ip string : ip (default "172.31.255.1")
